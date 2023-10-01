@@ -1,0 +1,17 @@
+extends base
+
+block content
+  p Hi #{name},
+    p You have an invitation to access a template from #{fromUser.name} 🎉🙏
+    p Please click the button below to confirm the invitation!
+    table.btn.btn-primary(role='presentation', border='0', cellpadding='0', cellspacing='0')
+      tbody
+        tr
+          td(align='left')
+            table(role='presentation', border='0', cellpadding='0', cellspacing='0')
+              tbody
+                tr
+                  td
+                    a(href=`${url}`, target='_blank') Confirm
+    p If you don't care, please ignore this email!
+    p - Phuc Tran, CEO

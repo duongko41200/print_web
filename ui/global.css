@@ -1,0 +1,74 @@
+@font-face {
+	font-family: 'Arial';
+	src: url('/static/fonts/Arial/arial.ttf');
+}
+
+@font-face {
+	font-family: 'Roboto';
+	src: url('/static/fonts/Roboto/Roboto-Regular.ttf');
+}
+
+@font-face {
+	font-family: 'Sedgwick Ave';
+	src: url('/static/fonts/Sedgwick_Ave/SedgwickAve-Regular.ttf');
+}
+
+@font-face {
+	font-family: 'Ysabeau Infant';
+	src: url('/static/fonts/Dancing_Script/static/DancingScript-Regular.ttf');
+}
+
+@font-face {
+	font-family: 'Dancing Script';
+	src: url('/static/fonts/Dancing_Script/static/DancingScript-Regular.ttf');
+}
+
+@font-face {
+	font-family: 'Inter';
+	src: url('/static/fonts/Inter/static/Inter-Regular.ttf');
+}
+
+@font-face {
+	font-family: 'Merriweather';
+	src: url('/static/fonts/Merriweather/Merriweather-Regular.ttf');
+}
+
+@font-face {
+	font-family: 'Montserrat';
+	src: url('/static/fonts/Montserrat/static/Montserrat-Regular.ttf');
+}
+
+@font-face {
+	font-family: 'Open Sans';
+	src: url('/static/fonts/Open_Sans/static/OpenSans-Regular.ttf');
+}
+
+@font-face {
+	font-family: 'Oswald';
+	src: url('/static/fonts/Oswald/static/Oswald-Regular.ttf');
+}
+
+@font-face {
+	font-family: 'Pacifico';
+	src: url('/static/fonts/Pacifico/Pacifico-Regular.ttf');
+}
+
+@font-face {
+	font-family: 'Pinyon Script';
+	src: url('/static/fonts/Pinyon_Script/PinyonScript-Regular.ttf');
+}
+
+@font-face {
+	font-family: 'Roboto Condensed';
+	src: url('/static/fonts/Roboto_Condensed/RobotoCondensed-Regular.ttf');
+}
+
+@font-face {
+	font-family: 'Roboto Mono';
+	src: url('/static/fonts/Roboto_Mono/static/RobotoMono-Regular.ttf');
+}
+
+@font-face {
+	font-family: 'Ysabeau Infant';
+	src: url('/static/fonts/Ysabeau_Infant//static/YsabeauInfant-Regular.ttf');
+}

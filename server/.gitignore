@@ -1,0 +1,6 @@
+node_modules/
+test/
+config.env
+public/images/
+package-lock.json
+logs/

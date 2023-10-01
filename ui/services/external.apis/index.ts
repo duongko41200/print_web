@@ -1,0 +1,1 @@
+export {getPixabayImages} from './pixabay';

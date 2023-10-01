@@ -1,0 +1,6 @@
+.panel-sidebar {
+	width: 250px;
+	overflow: auto;
+	border-right: 1px solid rgb(215, 216, 227);
+	padding: 10px 0;
+}
